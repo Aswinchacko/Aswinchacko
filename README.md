@@ -1,20 +1,58 @@
-# 💫 About Me:
-🌟 Passionate about web design and development, crafting amazing digital experiences. 💻🎨<br>🔍 Obsessed with pixel-perfect designs and clean code. ✨💡<br>🚀 Turning abstract ideas into user-friendly solutions. 🌐💡<br>🤝 Enthusiastic collaborator within the tech community. 🌟🤖
+<!-- GitHub profile README for @Aswinchacko -->
 
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:1E3A8A,100:0891B2&amp;height=215&amp;section=header&amp;text=Aswin%20Chacko&amp;fontSize=51&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;animation=fadeIn&amp;desc=Web%20Development%20%C3%97%20UI%2FUX%20Design&amp;descSize=17&amp;descAlignY=61"
+    width="100%"
+    alt="Aswin Chacko — Web Development and UI/UX Design"
+  />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswinchacko_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-chacko-a00428221) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aswinchackoofficial) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aswinchackoofficial) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aswin-Chacko-3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aswin-chacko) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aswinchacko) 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3200&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Designing+thoughtful+interfaces;Writing+clean%2C+intentional+code;Turning+ideas+into+digital+experiences"
+    alt="Designing thoughtful interfaces · Writing clean, intentional code · Turning ideas into digital experiences"
+  />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aswinchacko&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aswinchacko&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinchacko&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  <p>
+    <a href="https://linkedin.com/in/aswin-chacko-a00428221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://codepen.io/aswinchacko"><img src="https://img.shields.io/badge/CodePen-101827?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" alt="CodePen" /></a>
+    <a href="https://medium.com/@aswinchackoofficial"><img src="https://img.shields.io/badge/Medium-171717?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
+    <a href="https://instagram.com/aswinchacko_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  </p>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## A little about me
 
----
-[![](https://visitcount.itsvg.in/api?id=Aswinchacko&icon=5&color=6)](https://visitcount.itsvg.in)
+I'm passionate about **web design and development**—especially the space where thoughtful design meets useful technology. I enjoy turning abstract ideas into intuitive digital experiences, paying attention to the details that make an interface feel just right.
 
+- **Design with purpose:** polished, accessible-feeling interfaces with attention to visual detail.
+- **Build with care:** clean code and user-friendly solutions.
+- **Create together:** learning from and collaborating with the developer community.
+
+## Tech & creative toolkit
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap, and Vite" />
+
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,mongodb,mysql,firebase&amp;theme=dark" alt="Node.js, Express, PHP, Laravel, Python, MongoDB, MySQL, and Firebase" />
+
+**Design & tools**
+
+<img src="https://skillicons.dev/icons?i=figma,xd,postman,netlify,wordpress&amp;theme=dark" alt="Figma, Adobe XD, Postman, Netlify, and WordPress" />
+
+## GitHub at a glance
+
+<div align="center">
+  <a href="https://github.com/Aswinchacko">
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Aswinchacko&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Aswin's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Aswinchacko?tab=repositories">
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aswinchacko&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used languages in Aswin's public repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Curiosity drives the ideas. Design shapes the experience. Code brings it to life.</sub>
+</div>
